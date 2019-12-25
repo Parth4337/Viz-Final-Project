@@ -1,0 +1,136 @@
+﻿  algebra3.cpp
+  arcball.cpp
+  glui.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  glui_add_controls.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  glui_bitmaps.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  glui_button.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  glui_checkbox.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  glui_column.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  glui_commandline.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  glui_control.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_control.cpp(963,1): warning C4996:  'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  glui_edittext.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message :  see declaration of 'strncpy'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  glui_filebrowser.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  glui_list.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_list.cpp(243,27): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_list.cpp(318,13): warning C4018:  '<': signed/unsigned mismatch
+  glui_listbox.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_list.cpp(329,13): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  glui_mouse_iaction.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_listbox.cpp(132,56): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  glui_node.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  glui_panel.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  glui_radio.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  glui_rollout.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  glui_rotation.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Compiling...
+  glui_scrollbar.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_rotation.cpp(121,17): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  glui_separator.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  glui_spinner.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  glui_statictext.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  glui_textbox.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_textbox.cpp(434,27): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_textbox.cpp(965,3): warning C4018:  '>': signed/unsigned mismatch
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_textbox.cpp(967,3): warning C4018:  '>': signed/unsigned mismatch
+  glui_translation.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_textbox.cpp(969,3): warning C4018:  '>': signed/unsigned mismatch
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_translation.cpp(364,16): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_translation.cpp(364,25): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_translation.cpp(364,35): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_translation.cpp(364,45): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_translation.cpp(371,66): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_translation.cpp(372,19): warning C4305:  'argument': truncation from 'double' to 'float'
+  glui_tree.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_translation.cpp(453,27): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  glui_treepanel.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_treepanel.cpp(211,39): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_treepanel.cpp(212,39): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_treepanel.cpp(213,39): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_treepanel.cpp(214,39): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_treepanel.cpp(215,39): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_treepanel.cpp(216,39): warning C4305:  'argument': truncation from 'double' to 'float'
+  glui_window.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\glui_treepanel.cpp(217,38): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  quaternion.cpp
+  viewmodel.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\GLUI\include\GL\glui.h(850,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  glui_img_checkbox_0.c
+  glui_img_checkbox_0_dis.c
+  glui_img_checkbox_1.c
+  glui_img_checkbox_1_dis.c
+  glui_img_downarrow.c
+  glui_img_leftarrow.c
+  glui_img_listbox_down.c
+  glui_img_listbox_up.c
+  glui_img_listbox_up_dis.c
+  glui_img_radiobutton_0.c
+  glui_img_radiobutton_0_dis.c
+  glui_img_radiobutton_1.c
+  glui_img_radiobutton_1_dis.c
+  glui_img_rightarrow.c
+  glui_img_spindown_0.c
+  glui_img_spindown_1.c
+  glui_img_spindown_dis.c
+  glui_img_spinup_0.c
+  glui_img_spinup_1.c
+  glui_img_spinup_dis.c
+  Compiling...
+  glui_img_uparrow.c
+  GLUI.vcxproj -> C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Release\GLUI.lib

@@ -1,0 +1,21 @@
+﻿  sample.cpp
+c:\users\hvrda\onedrive\desktop\visualization\assignment_4\skeleton\skeleton2017_new_zip\skeleton2017\sample.cpp(86): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+c:\users\hvrda\onedrive\desktop\visualization\assignment_4\skeleton\skeleton2017_new_zip\skeleton2017\sample.cpp(344): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\hvrda\onedrive\desktop\visualization\assignment_4\skeleton\skeleton2017_new_zip\skeleton2017\sample.cpp(515): warning C4101: 'str': unreferenced local variable
+c:\users\hvrda\onedrive\desktop\visualization\assignment_4\skeleton\skeleton2017_new_zip\skeleton2017\sample.cpp(818): warning C4101: 'group': unreferenced local variable
+c:\users\hvrda\onedrive\desktop\visualization\assignment_4\skeleton\skeleton2017_new_zip\skeleton2017\sample.cpp(835): warning C4101: 'k_value': unreferenced local variable
+c:\users\hvrda\onedrive\desktop\visualization\assignment_4\skeleton\skeleton2017_new_zip\skeleton2017\sample.cpp(839): warning C4101: 'str': unreferenced local variable
+c:\users\hvrda\onedrive\desktop\visualization\assignment_4\skeleton\skeleton2017_new_zip\skeleton2017\sample.cpp(1754): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\hvrda\onedrive\desktop\visualization\assignment_4\skeleton\skeleton2017_new_zip\skeleton2017\sample.cpp(1755): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\hvrda\onedrive\desktop\visualization\assignment_4\skeleton\skeleton2017_new_zip\skeleton2017\sample.cpp(1788): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\hvrda\onedrive\desktop\visualization\assignment_4\skeleton\skeleton2017_new_zip\skeleton2017\sample.cpp(1818): warning C4018: '<': signed/unsigned mismatch
+c:\users\hvrda\onedrive\desktop\visualization\assignment_4\skeleton\skeleton2017_new_zip\skeleton2017\sample.cpp(1811): warning C4101: 'l': unreferenced local variable
+c:\users\hvrda\onedrive\desktop\visualization\assignment_4\skeleton\skeleton2017_new_zip\skeleton2017\sample.cpp(1811): warning C4101: 'j': unreferenced local variable
+c:\users\hvrda\onedrive\desktop\visualization\assignment_4\skeleton\skeleton2017_new_zip\skeleton2017\sample.cpp(2007): warning C4101: 'jitter': unreferenced local variable
+c:\users\hvrda\onedrive\desktop\visualization\assignment_4\skeleton\skeleton2017_new_zip\skeleton2017\sample.cpp(2023): warning C4101: 'h': unreferenced local variable
+c:\users\hvrda\onedrive\desktop\visualization\assignment_4\skeleton\skeleton2017_new_zip\skeleton2017\sample.cpp(2023): warning C4101: 'w': unreferenced local variable
+c:\users\hvrda\onedrive\desktop\visualization\assignment_4\skeleton\skeleton2017_new_zip\skeleton2017\sample.cpp(2165): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'const int *'
+c:\users\hvrda\onedrive\desktop\visualization\assignment_4\skeleton\skeleton2017_new_zip\skeleton2017\sample.cpp(2165): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 2 has type 'const int *'
+c:\users\hvrda\onedrive\desktop\visualization\assignment_4\skeleton\skeleton2017_new_zip\skeleton2017\sample.cpp(2185): warning C4018: '<': signed/unsigned mismatch
+c:\users\hvrda\onedrive\desktop\visualization\assignment_4\skeleton\skeleton2017_new_zip\skeleton2017\sample.cpp(2295): warning C4101: 'j': unreferenced local variable
+  Skeleton2017.vcxproj -> C:\Users\hvrda\OneDrive\Desktop\visualization\assignment_4\Skeleton\Skeleton2017_new_zip\Debug\Skeleton2017.exe

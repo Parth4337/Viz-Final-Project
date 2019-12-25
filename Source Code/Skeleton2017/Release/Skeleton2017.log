@@ -1,0 +1,39 @@
+﻿  sample.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(304,2): warning C4091:  'typedef ': ignored on left of 'seedpoints' when no variable is declared
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(566,20): warning C4101:  'trans': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(564,19): warning C4101:  'group': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(566,29): warning C4101:  'scale': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(565,17): warning C4101:  'rot': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1439,50): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1440,50): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1473,26): warning C4305:  '=': truncation from 'double' to 'GLfloat'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1501,16): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1515,28): warning C4804:  '<=': unsafe use of type 'bool' in operation
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1521,36): warning C4804:  '<=': unsafe use of type 'bool' in operation
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1527,40): warning C4804:  '<=': unsafe use of type 'bool' in operation
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1533,40): warning C4804:  '<=': unsafe use of type 'bool' in operation
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1539,40): warning C4804:  '<=': unsafe use of type 'bool' in operation
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1545,40): warning C4804:  '<=': unsafe use of type 'bool' in operation
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1551,40): warning C4804:  '<=': unsafe use of type 'bool' in operation
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1608,6): warning C4101:  'jitter': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1624,9): warning C4101:  'h': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1624,6): warning C4101:  'w': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1687,9): warning C4101:  'h': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1687,6): warning C4101:  'w': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1761,33): warning C4804:  '<=': unsafe use of type 'bool' in operation
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1767,34): warning C4804:  '<=': unsafe use of type 'bool' in operation
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1856,38): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1858,24): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1859,25): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1862,24): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1863,25): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1866,22): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(1867,22): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(2007,10): warning C4477:  'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'unsigned int'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Skeleton2017\sample.cpp(2010,21): warning C4018:  '<': signed/unsigned mismatch
+  Generating code
+  7 of 768 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Skeleton2017.vcxproj -> C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Project\Skeleton2017_new_zip\Release\Skeleton2017.exe

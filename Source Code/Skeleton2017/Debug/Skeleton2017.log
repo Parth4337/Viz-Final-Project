@@ -1,0 +1,62 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Skeleton2017-LAPTOP-QECAAJJP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Geometry.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\Geometry.cpp(218,22): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\Geometry.cpp(219,22): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\Geometry.cpp(220,22): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\Geometry.cpp(740,14): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\Geometry.cpp(784,13): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\Geometry.cpp(788,24): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\Geometry.cpp(801,13): warning C4018:  '<': signed/unsigned mismatch
+  icVector.cpp
+  ply.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\Geometry.cpp(810,14): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(207,15): warning C4101:  'elem': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(205,7): warning C4101:  'i': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(352,7): warning C4101:  'i': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(354,16): warning C4101:  'prop': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(478,7): warning C4101:  'i': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(674,31): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(1323,7): warning C4101:  'i': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(1429,7): warning C4101:  'i': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(1566,7): warning C4101:  'i': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(1718,9): warning C4101:  'j': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(1718,7): warning C4101:  'i': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(1930,19): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(2039,18): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(2040,19): warning C4244:  '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(2044,18): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(2045,19): warning C4244:  '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(2121,18): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(2122,19): warning C4244:  '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(2127,18): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(2128,19): warning C4244:  '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(2246,17): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(2332,7): warning C4101:  'count_type': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(2331,7): warning C4101:  'prop_type': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(2780,7): warning C4101:  'i': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(2782,16): warning C4101:  'prop': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(3065,7): warning C4101:  'count': unreferenced local variable
+  sample.cpp
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\ply.cpp(3064,7): warning C4101:  'i': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\sample.cpp(299,2): warning C4091:  'typedef ': ignored on left of 'seedPoint' when no variable is declared
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\sample.cpp(664,19): warning C4101:  'group': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\sample.cpp(1526,50): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\sample.cpp(1527,50): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\sample.cpp(1560,26): warning C4305:  '=': truncation from 'double' to 'GLfloat'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\sample.cpp(1588,6): warning C4101:  'jitter': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\sample.cpp(1603,9): warning C4101:  'h': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\sample.cpp(1603,6): warning C4101:  'w': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\sample.cpp(1762,9): warning C4101:  'h': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\sample.cpp(1762,6): warning C4101:  'w': unreferenced local variable
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\sample.cpp(1860,38): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\sample.cpp(1862,24): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\sample.cpp(1866,24): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\sample.cpp(1867,25): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\sample.cpp(1870,22): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\sample.cpp(1871,22): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\sample.cpp(2033,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\sample.cpp(2063,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\sample.cpp(2190,20): warning C4018:  '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Skeleton2017\sample.cpp(2195,21): warning C4018:  '<': signed/unsigned mismatch
+  Skeleton2017.vcxproj -> C:\Users\Parth\OneDrive\Desktop\Visualization\Final Project\Source Code\Debug\Skeleton2017.exe
